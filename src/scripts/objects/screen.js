@@ -30,7 +30,7 @@ const screen = {
                     ${repo.name}
                     <br>
                     <span class="icones-repositorios">
-                        🍴${repo.forks}
+                        🍴${repo.forks} 
                     </span>
                     <span class="icones-repositorios">
                         ⭐${repo.stargazers_count}
